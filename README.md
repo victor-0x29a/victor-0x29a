@@ -55,6 +55,7 @@
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)]
 [![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)]
 [![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)]
+[![INSOMNIA](https://img.shields.io/badge/insomnia-%235849BE.svg?&style=for-the-badge&logo=insomnia&logoColor=white)]
 
 
 
