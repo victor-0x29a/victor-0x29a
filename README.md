@@ -1,8 +1,7 @@
 
 
-<div align="center">  
-  
- ![a](https://raw.githubusercontent.com/suppus/github-stats/master/generated/languages.svg)
+<div align="center">  ![](https://raw.githubusercontent.com/suppus/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/suppus/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </div>
 
 
