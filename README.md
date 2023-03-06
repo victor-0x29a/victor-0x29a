@@ -2,7 +2,7 @@
 
 <div align="center">  
   
- ![](https://raw.githubusercontent.com/suppus/github-stats/master/generated/languages.svg#gh-light-mode-only)
+ ![a](https://raw.githubusercontent.com/suppus/github-stats/master/generated/languages.svg)
 </div>
 
 
