@@ -13,6 +13,7 @@
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
 [![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]
 [![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)]
 
 ## Frameworks
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
