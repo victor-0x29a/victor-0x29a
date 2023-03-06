@@ -2,6 +2,7 @@
 
 <div align="center">  
   <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supppus&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fcfcfc&bg_color=000000&&hide=html,css" />
+  <p><img align="center" src="https://github.com/suppus/github-stats/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><img align="center" src="https://github.com/suppus/github-stats/blob/actions_branch/generated_images/overview.svg" alt="overview" /></p>
 </div>
 
 
