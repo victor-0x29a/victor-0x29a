@@ -14,6 +14,7 @@
 [![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]
 [![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)]
+[![ASM](https://img.shields.io/badge/assemblyscript-%23007AAC.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white)]
 
 ## Frameworks
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
