@@ -2,7 +2,7 @@
 
 <div align="center">  
   
-  <p><img align="center" src="https://github.com/suppus/github-stats/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><img align="center" src="https://github.com/suppus/github-stats/blob/actions_branch/generated_images/overview.svg" alt="overview" /></p>
+ <img align="center" src="https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><
 </div>
 
 
