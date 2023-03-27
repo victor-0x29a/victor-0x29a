@@ -37,7 +37,4 @@
 [![arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]
 [![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
 
-# Status
-<div style="width: auto;height:auto;display:flex;justify-content:center;align-items:center;">
-  <img style="width:419px;height:119px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0x29a"/>
-</div>
+
