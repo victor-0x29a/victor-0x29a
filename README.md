@@ -39,5 +39,5 @@
 
 # Status
 <div>
-  <img width="409px" height="119px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0x29a"/>
+  <img width="409" height="119" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0x29a"/>
 </div>
