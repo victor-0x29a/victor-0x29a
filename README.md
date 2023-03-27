@@ -8,7 +8,7 @@
 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,python,golang,java,c++,assembly,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,typescript,python,golang,java,cpp,assembly,bash&theme=light)](https://skillicons.dev)
 
 ## Frameworks
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
