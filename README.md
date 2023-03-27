@@ -1,7 +1,7 @@
 
 
 <div align="center"> 
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supppus&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fcfcfc&bg_color=000000&&hide=html,css" />
+  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0x29a&layout=compact&hide_border=true&title_color=fcfcfc&text_color=fcfcfc&bg_color=000000&&hide=html,css" />
 </div>
 
 
