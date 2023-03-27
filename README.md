@@ -9,6 +9,7 @@
 [![py](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)]
 [![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+[![asm](https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white)]
 
 ### Database
 [![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]
