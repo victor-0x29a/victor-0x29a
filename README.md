@@ -33,3 +33,6 @@
 
 ---
 
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)][https://www.youtube.com/watch?v=m8q25D2hV58]
+
