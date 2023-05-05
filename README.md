@@ -5,6 +5,8 @@
 
 🔭 Atualmente ando estudando o NestJS, Kafka e Nginx!
 
+💬 Sou desenvolvedor web full-stack e curto bastante a área de segurança também.
+
 ----
 
 ## 🚀 Minhas Skills
