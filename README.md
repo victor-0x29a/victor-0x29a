@@ -1,6 +1,6 @@
 
 
-## 💜 Olá, meu nome é <strong>Victor!</strong>
+## 😅 Olá, meu nome é <strong>Victor!</strong>
 
 
 🔭 Estudando NestJS, Kafka e Nginx!
