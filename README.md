@@ -1,15 +1,16 @@
 
 
-## 😅 Olá, meu nome é <strong>Victor!</strong>
+## 🍾 Hello, call me the <strong>0x29a</strong>
 
 
-🔭 Atualmente ando estudando o NestJS, Kafka e Nginx!
+🔭 Currently i'm studying the framework NestJS, Kafka and Nginx!
 
-💬 Sou desenvolvedor web full-stack e curto bastante a área de segurança também.
+
+💬 I am a web developer full-stack and i like too the area of security.
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 <div align="center">
   
@@ -37,7 +38,7 @@
 
 ---
 
-## 📭 Contatos 
+## 📭 Contact 
 
 
 #### [📧Email](mailto:cartoonbr495@gmail.com)
