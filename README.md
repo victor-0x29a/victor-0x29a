@@ -31,7 +31,6 @@
   ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
   ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=for-the-badge)
   
-  <img width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-0x29a&layout=compact&langs_count=10&theme=vision-friendly-dark&hide=html,handlebars,css,ejs,javascript&hide_title=true"/>
 
 
 </div>
