@@ -1,17 +1,5 @@
 
 
-## 🍾 Hello, call me the <strong>0x29a</strong>
-
-
-🔭 Currently i'm studying the framework NestJS, Kafka and Nginx!
-
-
-💬 I am a web developer full-stack and i like too the area of security.
-
-----
-
-## 🚀 My Skills
-
 <div align="center">
   
   ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
