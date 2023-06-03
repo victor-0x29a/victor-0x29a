@@ -33,10 +33,5 @@
   
 </div>
 
----
 
-## 📭 Contact 
-
-
-#### [📧Email](mailto:cartoonbr495@gmail.com)
 
