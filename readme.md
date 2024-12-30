@@ -7,6 +7,7 @@ I'm a passionate developer with experience in a variety of technologies and fram
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Pug](https://img.shields.io/badge/pugjs-3A1E25?style=for-the-badge&logo=pug)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -21,6 +22,7 @@ I'm a passionate developer with experience in a variety of technologies and fram
 ## 🌟 About Me
 - **Level:** 18
 - **Name:** Victor
+- **From:** Brazil
 
 ## 📫 How to reach me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-0x29a)
