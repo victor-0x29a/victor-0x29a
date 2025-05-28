@@ -1,7 +1,5 @@
 # Hi, I'm Victor (0x29a) 👋
 
-I'm a passionate developer with experience in a variety of technologies and frameworks. Here's a bit about me:
-
 ## 🛠 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,17 +17,6 @@ I'm a passionate developer with experience in a variety of technologies and fram
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌟 About Me
-- **Level:** 19
-- **Name:** Victor
-- **From:** Brazil
-
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0xb414k61@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
-
-## 🧠 What I'm currently learning
-- Advanced concepts in backend development
-- Cloud computing and DevOps practices
-
-Feel free to check out my repositories and connect with me. Let's build something amazing together!
